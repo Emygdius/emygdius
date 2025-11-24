@@ -1,8 +1,8 @@
-# Hi there, I'm Adams Wisdom Ekene! 👋
+# Hi there, I'm Wisdom Ekene! 👋
 
 ### 🚀 AI Developer | Data Extraction Specialist | Python Enthusiast
 
-I am a Business Management professional pivoting into **AI Development**. My goal is to bridge the gap between complex business operations and efficient technical solutions. I specialize in building automation tools, scraping data pipelines, and integrating AI APIs to solve real-world problems.
+I am a Business Management professional pivoting into **AI Development**. My goal is to bridge the gap between complex business operations and efficient technical solutions. I specialize in building automation tools, data pipelines, and integrating AI APIs to solve real-world problems.
 
 ---
 
@@ -16,7 +16,7 @@ I am a Business Management professional pivoting into **AI Development**. My goa
 ---
 
 ### 📊 GitHub Stats
-![Adams' GitHub Stats](https://github-readme-stats.vercel.app/api?username=emygdius&show_icons=true&theme=radical)
+![Wisdom' GitHub Stats](https://github-readme-stats.vercel.app/api?username=emygdius&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emygdius&layout=compact&theme=radical)
 
 ---
@@ -24,7 +24,7 @@ I am a Business Management professional pivoting into **AI Development**. My goa
 ### 🔭 Current Projects
 - **Interactive Professional Profile:** A SPA built with HTML/Tailwind to showcase my career journey. [View Live](https://emygdius.github.io/My-interactive-profile/)
 - **PDF-to-Audio Converter:** A Python tool for accessibility.
-- **Real Estate Data Scraper:** Automating data extraction for property analysis.
+- **Real Estate Data Extract:** Automating data extraction for property analysis.
 
 ---
 
