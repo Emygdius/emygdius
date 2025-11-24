@@ -1,6 +1,6 @@
 # Hi there, I'm Adams Wisdom Ekene! 👋
 
-### 🚀 Aspiring AI Developer | Data Extraction Specialist | Python Enthusiast
+### 🚀 AI Developer | Data Extraction Specialist | Python Enthusiast
 
 I am a Business Management professional pivoting into **AI Development**. My goal is to bridge the gap between complex business operations and efficient technical solutions. I specialize in building automation tools, scraping data pipelines, and integrating AI APIs to solve real-world problems.
 
