@@ -23,12 +23,12 @@ I bridge the gap between complex Go-To-Market strategies and technical execution
 
 ### 🔭 Featured Infrastructure
 - **[GTM-Flow Engine](https://github.com/emygdius/gtm-flow-engine):** An enterprise-grade lead enrichment and CRM sync framework utilizing a 12-point IQ validation suite.
-- **Interactive Professional Profile:** A SPA built with HTML/Tailwind to showcase my career journey. [View Live](https://emygdius.github.io/My-interactive-profile/)
 - **LeadGen Python Suite:** Automating B2B data extraction and enrichment for high-growth SaaS pipelines.
+- **PDF-to-Audio Converter:** A Python-based accessibility tool for document processing.
 
 ---
 
 ### 📫 Connect with Me
+- **LinkedIn:** [Wisdom Ekene Adams](https://www.linkedin.com/in/wisdom-ekene-adams-93619b330/)
 - **Email:** [Wisdomadams14@gmail.com](mailto:Wisdomadams14@gmail.com)
-- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/wisdomadams/)
 - **Upwork:** [Expert Marketing Ops](https://www.upwork.com/freelancers/~01519a615b14c7ff36)
