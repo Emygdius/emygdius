@@ -2,7 +2,7 @@
 
 ### 🚀 AI Developer | Data Extraction Specialist | Python Enthusiast
 
-I am a Business Management professional pivoting into **AI Development**. My goal is to bridge the gap between complex business operations and efficient technical solutions. I specialize in building automation tools, data pipelines, and integrating AI APIs to solve real-world problems.
+Strategic Marketing Operations Specialist & AI Architect. 🚀 I bridge the gap between complex GTM strategies and technical execution using Python automation and AI-driven workflows. Focused on CRM integrity, scalable lead engines, and maximizing operational efficiency for high-growth teams.
 
 ---
 
