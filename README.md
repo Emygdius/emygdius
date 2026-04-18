@@ -1,38 +1,34 @@
-# Hi there, I'm Wisdom Ekene! 👋
+# Hi there, I'm Wisdom Ekene Adams! 👋
 
-### 🚀 AI Developer | Data Extraction Specialist | Python Enthusiast
+### 🚀 Senior Marketing Operations Specialist | GTM Architect | AI Automator
 
-Strategic Marketing Operations Specialist & AI Architect. 🚀 I bridge the gap between complex GTM strategies and technical execution using Python automation and AI-driven workflows. Focused on CRM integrity, scalable lead engines, and maximizing operational efficiency for high-growth teams.
+I bridge the gap between complex Go-To-Market strategies and technical execution. By leveraging **Python automation** and **AI-driven workflows**, I architect scalable lead engines, maintain high-integrity CRM environments, and maximize operational efficiency for enterprise-level delivery.
 
 ---
 
-### 🛠️ Tech Stack
-| Languages | Data & AI | Tools |
+### 🛠️ Strategic Tech Stack
+| Operations & GTM | Data & Automation | AI & Content |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) |
+| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) |
+| ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| ![CRM Integrity](https://img.shields.io/badge/CRM_Integrity-Data_Quality-green?style=for-the-badge) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Beehiiv](https://img.shields.io/badge/Beehiiv-000000?style=for-the-badge&logo=beehiiv&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
-![Wisdom' GitHub Stats](https://github-readme-stats.vercel.app/api?username=emygdius&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emygdius&layout=compact&theme=radical)
+### 📊 Performance Metrics & Activity
+![Wisdom' GitHub Stats](https://github-readme-stats.vercel.app/api?username=emygdius&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emygdius&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ---
 
-### 🔭 Current Projects
+### 🔭 Featured Infrastructure
+- **[GTM-Flow Engine](https://github.com/emygdius/gtm-flow-engine):** An enterprise-grade lead enrichment and CRM sync framework utilizing a 12-point IQ validation suite.
 - **Interactive Professional Profile:** A SPA built with HTML/Tailwind to showcase my career journey. [View Live](https://emygdius.github.io/My-interactive-profile/)
-- **PDF-to-Audio Converter:** A Python tool for accessibility.
-- **Real Estate Data Extract:** Automating data extraction for property analysis.
+- **LeadGen Python Suite:** Automating B2B data extraction and enrichment for high-growth SaaS pipelines.
 
 ---
 
 ### 📫 Connect with Me
 - **Email:** [Wisdomadams14@gmail.com](mailto:Wisdomadams14@gmail.com)
-- **Upwork:** [View My Profile](https://www.upwork.com/freelancers/~01519a615b14c7ff36?mp_source=share)
-- **Phone:** +234 915 746 0005
-
-<!--
-**emygdius/emygdius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/wisdomadams/)
+- **Upwork:** [Expert Marketing Ops](https://www.upwork.com/freelancers/~01519a615b14c7ff36)
