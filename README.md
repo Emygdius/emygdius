@@ -1,34 +1,35 @@
 # Hi there, I'm Wisdom Ekene Adams! 👋
 
-### 🚀 Senior Marketing Operations Specialist | GTM Architect | AI Automator
+### 🚀 AI Systems Architect | Autonomous Agent Builder | GTM Engineer
 
-I bridge the gap between complex Go-To-Market strategies and technical execution. By leveraging **Python automation** and **AI-driven workflows**, I architect scalable lead engines, maintain high-integrity CRM environments, and maximize operational efficiency for enterprise-level delivery.
+I design and deploy AI-native infrastructure that eliminates operational friction. By leveraging **Claude Code**, **Python**, and **Autonomous Agents**, I bridge the gap between ambiguous business problems and scalable, production-ready systems. I focus on high-integrity data pipelines, internal workflow automation, and AI-first growth engines.
 
 ---
 
-### 🛠️ Strategic Tech Stack
-| Operations & GTM | Data & Automation | AI & Content |
+### 🛠️ Technical Ecosystem
+| AI & Systems Architecture | Data & Automation | GTM & Operations |
 | :--- | :--- | :--- |
-| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) |
-| ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| ![CRM Integrity](https://img.shields.io/badge/CRM_Integrity-Data_Quality-green?style=for-the-badge) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Beehiiv](https://img.shields.io/badge/Beehiiv-000000?style=for-the-badge&logo=beehiiv&logoColor=white) |
+| ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) |
+| ![Agents](https://img.shields.io/badge/AI_Agents-Autonomous_Routing-blue?style=for-the-badge) | ![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) |
+| ![Integrations](https://img.shields.io/badge/API_Integrations-REST_Webhooks-green?style=for-the-badge) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![CRM](https://img.shields.io/badge/CRM_Architecture-Integrity_Logic-success?style=for-the-badge) |
 
 ---
 
-### 📊 Performance Metrics & Activity
-![Wisdom' GitHub Stats](https://github-readme-stats.vercel.app/api?username=emygdius&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emygdius&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
+### 🔭 Featured AI Infrastructure
+- **[Sentinel-Agent](https://github.com/emygdius/sentinel-agent):** An autonomous ops framework for intent classification, Slack/ClickUp routing, and social media performance monitoring.
+- **[GTM-Flow Engine](https://github.com/emygdius/gtm-flow-engine):** An enterprise-grade lead enrichment engine with a custom 12-point Python validation suite for 100% CRM data integrity.
+- **LeadGen Python Suite:** Automating high-volume B2B data extraction and enrichment for AI-native pipelines.
 
 ---
 
-### 🔭 Featured Infrastructure
-- **[GTM-Flow Engine](https://github.com/emygdius/gtm-flow-engine):** An enterprise-grade lead enrichment and CRM sync framework utilizing a 12-point IQ validation suite.
-- **LeadGen Python Suite:** Automating B2B data extraction and enrichment for high-growth SaaS pipelines.
-- **PDF-to-Audio Converter:** A Python-based accessibility tool for document processing.
+### 🧪 Technical Approach
+* **AI-Owned vs. Human-Owned:** Designing workflows that maximize AI autonomy while maintaining human strategic oversight.
+* **Eval-Driven Development:** Implementing rigorous testing suites (Evals) to ensure AI agent outputs meet production standards.
+* **Modular Scalability:** Building systems with centralized YAML configurations for seamless environment transitions.
 
 ---
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Wisdom Ekene Adams](https://www.linkedin.com/in/wisdom-ekene-adams-93619b330/)
 - **Email:** [Wisdomadams14@gmail.com](mailto:Wisdomadams14@gmail.com)
-- **Upwork:** [Expert Marketing Ops](https://www.upwork.com/freelancers/~01519a615b14c7ff36)
+- **Portfolio:** [GitHub Repositories](https://github.com/emygdius?tab=repositories)
