@@ -2,7 +2,15 @@
 
 ### 🚀 AI Systems Architect | Autonomous Agent Builder | GTM Engineer
 
-I design and deploy AI-native infrastructure that eliminates operational friction. By leveraging **Claude Code**, **Python**, and **Autonomous Agents**, I bridge the gap between ambiguous business problems and scalable, production-ready systems. I focus on high-integrity data pipelines, internal workflow automation, and AI-first growth engines.
+I design and deploy AI-native infrastructure that eliminates operational friction. By leveraging **Claude Code**, **Python**, and **Autonomous Agents**, I bridge the gap between ambiguous business problems and scalable, production-ready systems. 
+
+---
+
+### 🟢 System Status (Live CI/CD)
+| Infrastructure | Build Status | Deployment Environment |
+| :--- | :--- | :--- |
+| **Sentinel-Agent** | ![Pylint](https://github.com/emygdius/sentinel-agent/actions/workflows/pylint.yml/badge.svg) | Production / Edge |
+| **GTM-Flow Engine** | ![GTM-Flow Status](https://github.com/emygdius/gtm-flow-engine/actions/workflows/python-app.yml/badge.svg) | Enterprise CRM Sync |
 
 ---
 
@@ -16,20 +24,20 @@ I design and deploy AI-native infrastructure that eliminates operational frictio
 ---
 
 ### 🔭 Featured AI Infrastructure
-- **[Sentinel-Agent](https://github.com/emygdius/sentinel-agent):** An autonomous ops framework for intent classification, Slack/ClickUp routing, and social media performance monitoring.
-- **[GTM-Flow Engine](https://github.com/emygdius/gtm-flow-engine):** An enterprise-grade lead enrichment engine with a custom 12-point Python validation suite for 100% CRM data integrity.
-- **LeadGen Python Suite:** Automating high-volume B2B data extraction and enrichment for AI-native pipelines.
+> **[Sentinel-Agent](https://github.com/emygdius/sentinel-agent)** > *An autonomous ops framework for intent classification, Slack/ClickUp routing, and social media performance monitoring.* > `Python` `YAML` `GitHub Actions` `LLM Routing`
+
+> **[GTM-Flow Engine](https://github.com/emygdius/gtm-flow-engine)** > *Enterprise-grade lead enrichment engine with a custom 12-point Python validation suite for 100% CRM data integrity.* > `Data Engineering` `Validation Logic` `CRM Automation`
 
 ---
 
-### 🧪 Technical Approach
-* **AI-Owned vs. Human-Owned:** Designing workflows that maximize AI autonomy while maintaining human strategic oversight.
-* **Eval-Driven Development:** Implementing rigorous testing suites (Evals) to ensure AI agent outputs meet production standards.
-* **Modular Scalability:** Building systems with centralized YAML configurations for seamless environment transitions.
+### 🧪 Technical Philosophy
+* **Autonomous Agency:** Engineering systems that don't just follow instructions, but categorize and route based on dynamic intent.
+* **Continuous Integrity:** Utilizing CI/CD (GitHub Actions) to ensure zero-fail deployments in high-stakes GTM environments.
+* **Modular Scalability:** Designing codebases with strict separation between core logic (`agents/`) and configuration (`config/`).
 
 ---
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Wisdom Ekene Adams](https://www.linkedin.com/in/wisdom-ekene-adams-93619b330/)
 - **Email:** [Wisdomadams14@gmail.com](mailto:Wisdomadams14@gmail.com)
-- **Portfolio:** [GitHub Repositories](https://github.com/emygdius?tab=repositories)
+- **Portfolio:** [Full Repository List](https://github.com/emygdius?tab=repositories)
