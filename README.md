@@ -7,10 +7,10 @@ I design and deploy AI-native infrastructure that eliminates operational frictio
 ---
 
 ### 🟢 System Status (Live CI/CD)
-| Infrastructure | Build Status | Deployment Environment |
+| Infrastructure | Build Status | Legal & Licensing |
 | :--- | :--- | :--- |
-| **Sentinel-Agent** | ![Pylint](https://github.com/emygdius/sentinel-agent/actions/workflows/pylint.yml/badge.svg) | Production / Edge |
-| **GTM-Flow Engine** | ![GTM-Flow Status](https://github.com/emygdius/gtm-flow-engine/actions/workflows/python-app.yml/badge.svg) | Enterprise CRM Sync |
+| **Sentinel-Agent** | ![Pylint](https://github.com/emygdius/sentinel-agent/actions/workflows/pylint.yml/badge.svg) | [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) |
+| **GTM-Flow Engine** | ![GTM-Flow Status](https://github.com/emygdius/gtm-flow-engine/actions/workflows/python-app.yml/badge.svg) | [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 ---
 
@@ -41,3 +41,8 @@ I design and deploy AI-native infrastructure that eliminates operational frictio
 - **LinkedIn:** [Wisdom Ekene Adams](https://www.linkedin.com/in/wisdom-ekene-adams-93619b330/)
 - **Email:** [Wisdomadams14@gmail.com](mailto:Wisdomadams14@gmail.com)
 - **Portfolio:** [Full Repository List](https://github.com/emygdius?tab=repositories)
+
+---
+<p align="center">
+  <i>⚖️ All projects are protected under CC BY-NC 4.0. Commercial use without prior authorization is prohibited.</i>
+</p>
