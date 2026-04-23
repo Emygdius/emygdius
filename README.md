@@ -2,7 +2,7 @@
 
 ### 🚀 AI Systems Architect | Autonomous Agent Builder | GTM Engineer
 
-I design and deploy AI-native infrastructure that eliminates operational friction. By leveraging **Claude Code**, **Python**, and **Autonomous Agents**, I bridge the gap between ambiguous business problems and scalable, production-ready systems. 
+I design and deploy AI-native infrastructure that eliminates operational friction. By leveraging **Python**, and **Autonomous Agents**, I bridge the gap between ambiguous business problems and scalable, production-ready systems. 
 
 ---
 
